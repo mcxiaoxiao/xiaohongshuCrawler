@@ -3,14 +3,15 @@
 <div align=center>
 
 # xiaohongshuCrawler
- 小红书📕 获取文章title、文章id、文章内容、话题标签，
+ 小红书 📕 获取文章title、文章id、文章内容、话题标签，
  
-![GitHub language count](https://img.shields.io/github/languages/count/mcxiaoxiao/c-Decision-tree)
-![GitHub contributors](https://img.shields.io/github/contributors/mcxiaoxiao/c-Decision-tree)
-![GitHub Repo stars](https://img.shields.io/github/stars/mcxiaoxiao/c-Decision-tree)
+![GitHub language count](https://img.shields.io/github/languages/count/mcxiaoxiao/xiaohongshuCrawler)
+![GitHub contributors](https://img.shields.io/github/contributors/mcxiaoxiao/xiaohongshuCrawler)
+![GitHub Repo stars](https://img.shields.io/github/stars/mcxiaoxiao/xiaohongshuCrawler)
 </br>
 
-![Static Badge](https://img.shields.io/badge/c++-blue)
+![Static Badge](https://img.shields.io/badge/python-blue)
+![Static Badge](https://img.shields.io/badge/js-blue)
 
 :school: Student of [@HRBUST](https://hrbust.edu.cn)
 :man_technologist: [@mcxiaoxiao](https://github.com/mcxiaoxiao)
@@ -20,12 +21,13 @@
 
 
 
-c-Decision-tree 🌳 简单的决策树
-比较严谨的c++实现，如果输出有报错可能是不支持emoji
-代码以天气预测是否适合出行为例，修改起来很方便。
+xiaohongshuCrawler 📕 简单的小红书爬虫
+python+油猴脚本模拟操作实现
 
 
- ![demo](https://github.com/mcxiaoxiao/c-Decision-tree/blob/master/demo.png)
+ ![demo](https://github.com/mcxiaoxiao/xiaohongshuCrawler/blob/main/demo1.gif)
+
+  ![demo](https://github.com/mcxiaoxiao/xiaohongshuCrawler/blob/main/demo2.png)
 
 </div>
  
