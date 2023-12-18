@@ -12,7 +12,8 @@
 
 ![Static Badge](https://img.shields.io/badge/python-blue)
 ![Static Badge](https://img.shields.io/badge/js-yellow)
-![Static Badge](https://img.shields.io/badge/jupyter-blue)
+![Static Badge](https://img.shields.io/badge/JupyterNotebook-orange)
+![Static Badge](https://img.shields.io/badge/bash-green)
 
 :school: Student of [@HRBUST](https://hrbust.edu.cn)
 :man_technologist: [@mcxiaoxiao](https://github.com/mcxiaoxiao)
