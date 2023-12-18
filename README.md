@@ -38,7 +38,7 @@ python+油猴脚本模拟操作实现
 
 0️⃣ 🤔 安装脚本
 </br>
-</br>直接在线安装 [安装到浏览器]([https://github.com/mcxiaoxiao](https://greasyfork.org/zh-CN/scripts/482536))
+</br>直接在线安装 [安装到浏览器](https://github.com/mcxiaoxiao](https://greasyfork.org/zh-CN/scripts/482536)
 </br>
 </br>使用Tampermonkey导入Tampermonkey.js
 
