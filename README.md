@@ -2,7 +2,7 @@
 
 <div align=center>
 
-# xiaohongshuCrawler
+# 🍠 xiaohongshuCrawler
  小红书 📕 获取文章title、文章id、文章内容、话题标签，
  
 ![GitHub language count](https://img.shields.io/github/languages/count/mcxiaoxiao/xiaohongshuCrawler)
