@@ -5,17 +5,14 @@
 # 🍠 xiaohongshuCrawler
  小红书 📕 获取文章title、文章id、文章内容、话题标签，
  </br>
- Last verified: 2024.11.29
+ Last verified: ![Static Badge](https://img.shields.io/badge/2024.11.29-green)
  </br>
 ![GitHub language count](https://img.shields.io/github/languages/count/mcxiaoxiao/xiaohongshuCrawler)
 ![GitHub contributors](https://img.shields.io/github/contributors/mcxiaoxiao/xiaohongshuCrawler)
 ![GitHub Repo stars](https://img.shields.io/github/stars/mcxiaoxiao/xiaohongshuCrawler)
 </br>
 
-![Static Badge](https://img.shields.io/badge/python-blue)
-![Static Badge](https://img.shields.io/badge/js-yellow)
-![Static Badge](https://img.shields.io/badge/JupyterNotebook-orange)
-![Static Badge](https://img.shields.io/badge/shell-green)
+
 
 :man_technologist: [@mcxiaoxiao](https://github.com/mcxiaoxiao)
 
