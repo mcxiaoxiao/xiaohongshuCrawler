@@ -26,7 +26,7 @@
         var intervalId;
 
         var articleData = {}; // 存储多个标题和链接的对象
-// 自动下拉页面
+        // 自动下拉页面
         var scrollHeight = document.body.scrollHeight;
         var currentScroll = 0;
         var scrollStep = 1000; // 每次滚动的步长
@@ -46,27 +46,33 @@
             articleDate = articleDate.replace(/-/g,'/');
 
             // 遍历每个文章元素
-            $(".title").each(function(index, element) {
-                // 获取笔记标题
-                var articleTitle = $(element).text();
+            // 遍历每个包含指定 href 的链接元素
+            $('a[href*="/explore/"]').each(function(index, element) {
+                // 获取链接元素
+                var linkElement = $(element);
 
-                // 获取笔记链接
-                var articleLink = $(element).attr("href");
+                // 获取链接
+                var articleLink = linkElement.attr("href");
+                console.log("Link:", articleLink);
 
-                // 获取文章ID
-                var articleId = articleLink.split("/").pop();
+                // 提取 articleId
+                var articleId = articleLink.replace('/explore/', '').split('?')[0];
+                console.log("Article ID:", articleId);
 
-                // 将标题和链接存储到对象中
-                articleData[articleId] = articleTitle;
+                // 获取对应的标题元素
+                var titleElement = linkElement.closest('div').find('.title');
 
-                // 输出当前标题和链接的键值对到控制台
-                console.log(articleId + ": " + articleTitle);
+                // 获取标题文本
+                var articleTitle = titleElement.text();
+                console.log("Title:", articleTitle);
+
+                // 输出链接和标题
+                console.log("Link:", articleLink, "Title:", articleTitle);
 
                 // 将当前标题和链接的键值对添加到新窗口的内容中
                 $(myWindow.document.body).append('<div>' + articleId + ': ' + articleTitle + '</div>');
-
-                autoScroll();
             });
+
         }
 
         // 开始定时获取笔记信息
