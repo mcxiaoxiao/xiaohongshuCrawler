@@ -15,7 +15,7 @@
 
  </br>
  
-![Static Badge](https://img.shields.io/badge/Last-verified:2024.11.29-green)
+![Static Badge](https://img.shields.io/badge/Last_verified-2024.11.29-green)
 
 ## Introduction :raised_hands:
 
