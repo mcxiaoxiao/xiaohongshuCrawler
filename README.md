@@ -52,5 +52,5 @@ python crawlerTool.py
  ```bash
 bash start.sh
 ```
-## Attention! ⚠
+##⚠ Attention! 
  本脚本仅供学习和研究使用。使用本脚本进行任何商业活动、侵权行为或违反法律法规的行为，均由用户自行承担后果。
