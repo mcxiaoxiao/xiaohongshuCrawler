@@ -6,14 +6,8 @@
 小红书 📕 获取文章title、文章id、文章内容、话题标签 👌🏻 三步实现
 
 
-![GitHub language count](https://img.shields.io/github/languages/count/mcxiaoxiao/xiaohongshuCrawler)
+
 ![GitHub contributors](https://img.shields.io/github/contributors/mcxiaoxiao/xiaohongshuCrawler)
-
-
-
-
-
- 
 ![Static Badge](https://img.shields.io/badge/Last_verified-2024.11.29-green)
 
 ## Introduction :raised_hands:
